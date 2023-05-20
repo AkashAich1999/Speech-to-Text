@@ -1,5 +1,8 @@
 Link To The Deployed Site : https://akashaich-speech-to-text.netlify.app/
 
+![React App - Google Chrome 20-05-2023 15_42_48](https://github.com/AkashAich1999/Speech-to-Text/assets/108985323/65fb71c5-313a-49a2-938f-cd2c980f2e50)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

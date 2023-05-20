@@ -6,7 +6,7 @@ Link To The Deployed Site : https://akashaich-speech-to-text.netlify.app/
     
        
 <br /> <br />       
-Following are some of the different Usecases of my Speech-to-Text Generator Web App :   
+Following are some of the different use cases of my Speech-to-Text Generator Web App :   
 <br />
 <b>1) For Students :</b>
 <br/>

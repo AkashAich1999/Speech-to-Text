@@ -7,16 +7,16 @@ Link To The Deployed Site : https://akashaich-speech-to-text.netlify.app/
        
 <br /> <br />       
 Following are some of the different Usecases of my Speech-to-Text Generator Web App :  
-       
+<br />       
 1) For Students :        
 * Note-taking: Students can use speech-to-text technology to convert their spoken words into text while taking notes in class, enabling faster and more efficient note-taking.
 
 * Transcribing Lectures: Speech-to-text converters allow students to transcribe recorded lectures, making it easier to review important information and refer back to specific sections.
 
 * Language Learning: Students learning a new language can practice speaking and have their words converted to text, helping them assess their pronunciation and identify areas for improvement.
-
+<br /> <br />
 2) For Hearing Impaired Person.
-
+<br /> <br />
 3) For Youtubers and Content Creators :    
 
 * Video Captioning: YouTubers can use speech-to-text technology to automatically generate captions for their videos, ensuring accessibility for viewers who are deaf or hard of hearing, as well as improving search engine optimization (SEO) by providing text content for indexing.

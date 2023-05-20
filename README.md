@@ -14,10 +14,8 @@ Following are some of the different Usecases of my Speech-to-Text Generator Web 
 * Transcribing Lectures: Speech-to-text converters allow students to transcribe recorded lectures, making it easier to review important information and refer back to specific sections.
 
 * Language Learning: Students learning a new language can practice speaking and have their words converted to text, helping them assess their pronunciation and identify areas for improvement.
-<br /> <br />
-<b>2) For Hearing Impaired Person. </b>
-<br /> <br />
-<b>3) For Youtubers and Content Creators :</b>    
+<br /> <br /><b>2) For Hearing Impaired Person.</b>
+<br /> <br /><b>3) For Youtubers and Content Creators :</b>    
 
 * Video Captioning: YouTubers can use speech-to-text technology to automatically generate captions for their videos, ensuring accessibility for viewers who are deaf or hard of hearing, as well as improving search engine optimization (SEO) by providing text content for indexing.
 
